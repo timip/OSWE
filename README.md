@@ -1,6 +1,6 @@
 # AWAE/OSWE
 
-Preparation of AWAE Training. 
+Preparation for coming AWAE Training. 
 Work in progress... Unproofed Version...
 
 ## Atmail Mail Server Appliance: from XSS to RCE (6.4) CVE-2012-2593
