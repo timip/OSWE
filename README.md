@@ -1,7 +1,7 @@
 # AWAE/OSWE
 
 Preparation for coming AWAE Training. 
-Work in progress... Unproofed Version...
+Work in progress...
 
 ## Atmail Mail Server Appliance: from XSS to RCE (6.4) CVE-2012-2593
 - https://www.exploit-db.com/exploits/20009
@@ -15,6 +15,9 @@ Work in progress... Unproofed Version...
 - Install: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
 - https://srcincite.io/advisories/src-2016-0012/
 - https://github.com/sourceincite/poc/blob/master/SRC-2016-0012.py
+- Reference: PHP Type Juggling
+  - https://www.youtube.com/watch?v=ASYuK01H3Po
+  - https://www.netsparker.com/blog/web-security/type-juggling-authentication-bypass-cms-made-simple/
 
 ## ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE CVE-?
 - Install: http://archives.manageengine.com/applications_manager/13720/
