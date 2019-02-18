@@ -21,7 +21,6 @@ Work in progress...
 
 ## ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE CVE-?
 - Install: http://archives.manageengine.com/applications_manager/13720/
-- https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/
 - https://manageenginesales.co.uk/2018/05/manageengine-applications-manager-build-13730-released/
 
 ## Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability (1.5.1) CVE-2014-7205
