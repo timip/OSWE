@@ -15,6 +15,7 @@ Work in progress...
 - Install: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
 - https://srcincite.io/advisories/src-2016-0012/
 - https://github.com/sourceincite/poc/blob/master/SRC-2016-0012.py
+- https://github.com/atutor/ATutor/commit/2eed42a74454355eddc7fc119e67af40dba1a94c
 - Reference: PHP Type Juggling
   - https://www.youtube.com/watch?v=ASYuK01H3Po
   - https://www.netsparker.com/blog/web-security/type-juggling-authentication-bypass-cms-made-simple/
