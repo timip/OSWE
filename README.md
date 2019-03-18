@@ -34,6 +34,8 @@ Work in progress...
 
 ## DotNetNuke Cookie Deserialization RCE (<9.1.1) CVE-2017-9822
 - Install: https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.1.0
+- https://www.blackhat.com/docs/us-17/thursday/us-17-Munoz-Friday-The-13th-Json-Attacks.pdf
+- https://media.blackhat.com/bh-us-12/Briefings/Forshaw/BH_US_12_Forshaw_Are_You_My_Type_WP.pdf
 - https://gist.github.com/pwntester/72f76441901c91b25ee7922df5a8a9e4
 - https://paper.seebug.org/365/
 - https://www.youtube.com/watch?v=oUAeWhW5b8c
