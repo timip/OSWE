@@ -10,6 +10,9 @@ Work in progress...
 ## ATutor Authentication Bypass and RCE (2.2.1) CVE-2016-2555
 - Install: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
 - https://www.exploit-db.com/exploits/39514
+- https://srcincite.io/advisories/src-2016-0009/
+- https://www.exploit-db.com/exploits/39639
+- https://github.com/atutor/ATutor/commit/d74f1177cfa92ed8e49aa65f724f308b4a3ac5b9
 
 ## ATutor LMS Type Juggling Vulnerability (<=2.2.1) CVE-?
 - Install: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
