@@ -45,3 +45,4 @@ Work in progress...
 - https://paper.seebug.org/365/
 - https://www.youtube.com/watch?v=oUAeWhW5b8c
 - https://vulners.com/seebug/SSV:96326
+- https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization
