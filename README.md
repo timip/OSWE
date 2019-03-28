@@ -27,6 +27,7 @@ Work in progress...
 - Install: http://archives.manageengine.com/applications_manager/13720/
 - https://manageenginesales.co.uk/2018/05/manageengine-applications-manager-build-13730-released/
 - https://www.postgresql.org/docs/9.4/functions-binarystring.html
+- https://blog.jamesotten.com/post/applications-manager-rce/
 
 ## Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability (1.5.1) CVE-2014-7205
 - Install: npm install bassmaster@1.5.1
@@ -34,6 +35,7 @@ Work in progress...
 - https://www.rapid7.com/db/modules/exploit/multi/http/bassmaster_js_injection
 - https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/bassmaster_js_injection.rb
 - https://www.exploit-db.com/exploits/40689
+- https://vulners.com/nodejs/NODEJS:337
 
 ## DotNetNuke Cookie Deserialization RCE (<9.1.1) CVE-2017-9822
 - Install: https://github.com/dnnsoftware/Dnn.Platform/releases/tag/v9.1.0
