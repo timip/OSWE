@@ -27,7 +27,10 @@ Work in progress...
 - Install: http://archives.manageengine.com/applications_manager/13720/
 - https://manageenginesales.co.uk/2018/05/manageengine-applications-manager-build-13730-released/
 - https://www.postgresql.org/docs/9.4/functions-binarystring.html
-- https://blog.jamesotten.com/post/applications-manager-rce/
+- Extra: Deserialization Vulnerability
+  - https://www.geeksforgeeks.org/serialization-in-java/
+  - https://github.com/frohoff/ysoserial
+  - https://blog.jamesotten.com/post/applications-manager-rce/
 
 ## Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability (1.5.1) CVE-2014-7205
 - Install: npm install bassmaster@1.5.1
