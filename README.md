@@ -24,7 +24,7 @@ Work in progress...
   - https://www.netsparker.com/blog/web-security/type-juggling-authentication-bypass-cms-made-simple/
 
 ## ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE CVE-?
-- Install: http://archives.manageengine.com/applications_manager/13720/
+- Install: http://archives.manageengine.com/applications_manager/12900
 - https://manageenginesales.co.uk/2018/05/manageengine-applications-manager-build-13730-released/
 - https://www.postgresql.org/docs/9.4/functions-binarystring.html
 - Extra: Deserialization Vulnerability
