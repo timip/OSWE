@@ -27,6 +27,7 @@ Work in progress...
 - Install: http://archives.manageengine.com/applications_manager/12900
 - https://manageenginesales.co.uk/2018/05/manageengine-applications-manager-build-13730-released/
 - https://www.postgresql.org/docs/9.4/functions-binarystring.html
+- https://www.mulesoft.com/tcat/tomcat-jsp
 - Extra: Deserialization Vulnerability
   - https://www.geeksforgeeks.org/serialization-in-java/
   - https://github.com/frohoff/ysoserial
