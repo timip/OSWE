@@ -50,3 +50,4 @@ Work in progress...
 - https://www.youtube.com/watch?v=oUAeWhW5b8c
 - https://vulners.com/seebug/SSV:96326
 - https://www.slideshare.net/MSbluehat/dangerous-contents-securing-net-deserialization
+- https://www.exploit-db.com/docs/english/44756-deserialization-vulnerability.pdf
