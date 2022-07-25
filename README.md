@@ -32,6 +32,7 @@ Work in progress...
   - https://www.geeksforgeeks.org/serialization-in-java/
   - https://github.com/frohoff/ysoserial
   - https://blog.jamesotten.com/post/applications-manager-rce/
+  - https://www.scaler.com/topics/java/serialization-in-java/
 
 ## Bassmaster NodeJS Arbitrary JavaScript Injection Vulnerability (1.5.1) CVE-2014-7205
 - Install: npm install bassmaster@1.5.1
